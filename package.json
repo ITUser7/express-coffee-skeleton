@@ -1,0 +1,9 @@
+{
+  "name": "coffee-skeleton-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.10.2"
+  },
+  "license": "mit",
+  "private": "true"
+}
